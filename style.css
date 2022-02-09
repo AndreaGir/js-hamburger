@@ -84,6 +84,9 @@ header {
     font-size: 35px;
     text-decoration: none;
 }
+.active{
+    display: block;
+}
 @media screen and (max-width: 1000px)
 {
     .header-right ul {
